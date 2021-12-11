@@ -6,7 +6,6 @@ public class ImplHello implements Hello {
     public void printMsg(String age) throws RemoteException {
         int a = Integer.parseInt(age);
         System.out.println("Your age: " + a);
-        System.out.println("Your age: " + a);
     }
     
 }
