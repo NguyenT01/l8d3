@@ -12,6 +12,7 @@ namespace Lab1_Login
 {
     public partial class Form1 : Form
     {
+		String abc= "Hello";
         public Form1()
         {
             InitializeComponent();
